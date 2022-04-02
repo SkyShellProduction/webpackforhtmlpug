@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Black.ttf'); 
+    font-weight: 900;
+} 
+h1{
+    color: red;
+    font-family: "Roboto";
+    text-transform: uppercase;
+}
+h1.title{
+    color: blue;
+}
+p{
+    color: red;
+}
+a{
+    color: aqua;
+}
