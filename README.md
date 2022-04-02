@@ -6,3 +6,5 @@
 - build one js file
 - build another js file for vendors
 - you can use import or require in js files
+- npm run dev - for development
+- npm run build - for build
